@@ -6,6 +6,8 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 ## Dataset can be downloaded from https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+
+-----
 ## Usage
 -----
 a) Read the Paper (PDF): 

@@ -1,0 +1,2 @@
+# Handling-Class-Imbalance-In-Credit-Card-Fraud-Detection
+In this project, two days of European credit card transactions are used to test current state-of-the-art strategies for dealing with class imbalance at the data and algorithm levels. The obtained results are compared to a benchmark for three algorithms that have previously been shown to perform well in fraud detection research: random forest, multi-layer perceptron, and linear support vector machine.

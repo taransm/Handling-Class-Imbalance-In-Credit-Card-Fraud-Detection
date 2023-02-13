@@ -23,3 +23,13 @@ b) Run the Jupyter Notebook:
 3. Run the notebook:
 
 `$ jupyter notebook`
+
+
+<img src="./readmeAssets/4.png" width=350 height=450></img>
+<img src="./readmeAssets/1.png" width=350 height=450></img>
+<img src="./readmeAssets/2.png" width=350 height=450></img>
+<img src="./readmeAssets/3.png" width=350 height=450></img>
+<img src="./readmeAssets/5.png" width=350 height=450></img>
+<img src="./readmeAssets/6.png" width=350 height=450></img>
+<img src="./readmeAssets/7.png" width=350 height=450></img>
+<img src="./readmeAssets/8.png" width=350 height=450></img>
